@@ -1,19 +1,19 @@
 [{
-        "name": "Spot",
+        "name": "Flint",
         "species": "cat",
         "favFood": "tuna"
     },
     {
-        "name": "Blacktail",
+        "name": "Monkey",
         "species": "cat",
         "favFood": "tuna"
     },
     {
-        "name": "Shorttail",
+        "name": "Littleshit",
         "species": "cat",
         "favFood": "tuna"
     }, {
-        "name": "Longtail",
+        "name": "Orangena",
         "species": "cat",
         "favFood": "tuna"
     }
