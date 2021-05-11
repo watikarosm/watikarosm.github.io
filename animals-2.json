@@ -1,20 +1,28 @@
 [{
         "name": "Flint",
         "species": "cat",
-        "favFood": "tuna"
+        "favFood": [{ "likes" : {"tuna", "salmon", "checken"},
+                     "dislikes" : {"beef", "bugs", "lizard"}                     
+                    }]
     },
     {
         "name": "Monkey",
         "species": "cat",
-        "favFood": "tuna"
+        "favFood":  [{ "likes" : {"beef", "bugs", "lizard"},
+                     "dislikes" : {"tuna", "salmon", "checken"}                     
+                    }]
     },
     {
         "name": "Littleshit",
         "species": "cat",
-        "favFood": "tuna"
+        "favFood":  [{ "likes" : {"tuna", "bugs", "rat"},
+                     "dislikes" : {"beef", "salmon", "snake"}                     
+                    }]
     }, {
         "name": "Orangena",
         "species": "cat",
-        "favFood": "tuna"
+        "favFood": [{ "likes" : {"lamb", "duck", "rat"},
+                     "dislikes" : {"beef", "trout", "snake"}                     
+                    }]
     }
 ]
