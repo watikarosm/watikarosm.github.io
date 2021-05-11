@@ -1,20 +1,28 @@
 [{
         "name": "Spot",
         "species": "cat",
-        "favFood": "tuna"
+        "favFood": [{ "likes" : {"tuna" "salmon" "checken"},
+                     "dislikes" : {"beef" "bugs" "lizard"}                     
+                    }]
     },
     {
         "name": "Blacktail",
         "species": "cat",
-        "favFood": "tuna"
+        "favFood": [{ "likes" : {"tuna" "salmon" "checken"},
+                     "dislikes" : {"beef" "bugs" "lizard"}                     
+                    }]
     },
     {
         "name": "Shorttail",
         "species": "cat",
-        "favFood": "tuna"
+        "favFood": [{ "likes" : {"tuna" "salmon" "checken"},
+                     "dislikes" : {"beef" "bugs" "lizard"}                     
+                    }]
     }, {
         "name": "Longtail",
         "species": "cat",
-        "favFood": "tuna"
+        "favFood": [{ "likes" : {"tuna" "salmon" "checken"},
+                     "dislikes" : {"beef" "bugs" "lizard"}                     
+                    }]
     }
 ]
